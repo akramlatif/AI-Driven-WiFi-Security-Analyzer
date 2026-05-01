@@ -33,16 +33,18 @@ This project is a defensive, instructor-friendly implementation of an AI-assiste
 - src/analyzer/reporting.py: Report generation and file export.
 
 ## Screenshots
-These are illustrative dashboard snapshots added to the repository for the README.
 
 ### Network Scanning & Risk
-![Network scanning overview](docs/images/dashboard-overview.svg)
+Real-time network discovery, AI-driven risk prioritization, and status metrics.
+![Network scanning overview](docs/images/01-network-scanning.png)
 
 ### Password Pattern Intelligence
-![Password intelligence screen](docs/images/password-intelligence.svg)
+Defensive password strength analysis with AI-generated hardening blocklist suggestions.
+![Password intelligence screen](docs/images/02-password-intelligence.png)
 
 ### Reporting
-![Report generation screen](docs/images/reporting-summary.svg)
+Automated markdown report generation with findings, alerts, and hardening recommendations.
+![Report generation screen](docs/images/03-reporting.png)
 
 ## Setup
 1. Create virtual environment:

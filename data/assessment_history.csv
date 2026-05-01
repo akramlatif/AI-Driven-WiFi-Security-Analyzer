@@ -1,0 +1,4 @@
+timestamp,high_risk_count,medium_risk_count,low_risk_count,avg_risk_score,password_score,anomaly_ratio
+2026-05-01 22:59:28,3,0,2,60.0,,0.08
+2026-05-01 23:09:59,3,0,2,60.0,95.0,
+2026-05-01 23:29:47,3,0,2,60.0,95.0,
