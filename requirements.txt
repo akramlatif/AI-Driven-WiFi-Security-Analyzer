@@ -3,3 +3,5 @@ pandas>=2.2.2
 numpy>=1.26.4
 scikit-learn>=1.4.2
 joblib>=1.4.2
+Flask>=3.0.0
+Flask-CORS>=4.0.0
