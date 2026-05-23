@@ -59,36 +59,6 @@ This project is a defensive, instructor-friendly implementation of an AI-assiste
 - `src/analyzer/automation.py`: End-to-end automated assessment runner.
 - `src/analyzer/reporting.py`: Report generation and file export.
 
-## Screenshots
-
-### 🎨 New SOC Dashboard (React Frontend)
-
-#### Dashboard - Real-time Security Metrics
-Overview of network security status with live threat indicators and KPIs.
-![SOC Dashboard](docs/images/dashboard.png)
-
-#### Network Scanner - Advanced WiFi Analysis
-Scan and prioritize nearby networks with AI-powered risk scoring and threat detection.
-![Network Scanner](docs/images/scanner.png)
-
-#### Password Analyzer - Strength & Vulnerability Testing
-Test password strength with detailed analysis and security recommendations.
-![Password Analyzer](docs/images/password.png)
-
-#### Traffic Analysis - Anomaly Detection
-Analyze network traffic patterns and detect suspicious behavior.
-![Traffic Analysis](docs/images/traffic.png)
-
-#### Alerts Panel - Real-time Security Events
-Monitor security alerts with severity filtering and timeline view.
-![Alerts Panel](docs/images/alerts.png)
-
-#### Reports - Security Assessment Generator
-Generate comprehensive markdown reports with findings and recommendations.
-![Reports](docs/images/reports.png)
-
----
-
 ### 📊 Legacy Streamlit Dashboard
 
 #### Network Scanning & Risk
